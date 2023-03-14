@@ -1,0 +1,252 @@
+[INFO ] 2023-03-13 12:26:45.549 [TestNG-tests-2] RegConfirmTest - browser ---->chrome
+[INFO ] 2023-03-13 12:26:45.549 [TestNG-tests-1] RegistrationTest - browser ---->chrome
+[INFO ] 2023-03-13 12:26:45.563 [TestNG-tests-2] RegConfirmTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 12:26:45.563 [TestNG-tests-1] RegistrationTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 12:26:45.564 [TestNG-tests-2] RegConfirmTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 12:26:45.564 [TestNG-tests-1] RegistrationTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 12:27:00.702 [TestNG-tests-2] RegConfirmTest - thread--->23
+[INFO ] 2023-03-13 12:27:01.105 [TestNG-tests-2] RegConfirmTest - confirmation message match success
+[INFO ] 2023-03-13 12:27:01.212 [TestNG-tests-2] RegConfirmTest - quiting browser
+[INFO ] 2023-03-13 12:27:01.245 [TestNG-tests-1] RegistrationTest - thread--->22
+[INFO ] 2023-03-13 12:27:01.814 [TestNG-tests-1] baseUtils - phone----> 6927989612
+[INFO ] 2023-03-13 12:27:01.923 [TestNG-tests-1] baseUtils - email----> bholenathbDREM@bharat.co.in
+[INFO ] 2023-03-13 12:27:09.758 [TestNG-tests-1] baseUtils - Password---> Kashi 35EgR
+[INFO ] 2023-03-13 12:27:09.826 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi 35EgR
+[INFO ] 2023-03-13 12:27:09.879 [TestNG-tests-1] RegistrationTest - user registration data added successfully
+[INFO ] 2023-03-13 12:27:09.898 [TestNG-tests-1] RegistrationTest - quiting browser
+[INFO ] 2023-03-13 17:12:53.435 [TestNG-tests-1] FlightDetailsTest - browser ---->chrome
+[INFO ] 2023-03-13 17:12:53.435 [TestNG-tests-2] ItineraryTest - browser ---->chrome
+[INFO ] 2023-03-13 17:12:53.446 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 17:12:53.447 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 17:12:53.447 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 17:12:53.447 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 17:13:11.116 [TestNG-tests-1] baseUtils - phone----> 2112087670
+[INFO ] 2023-03-13 17:13:11.245 [TestNG-tests-1] baseUtils - email----> bholenathfTNoz@bharat.co.in
+[INFO ] 2023-03-13 17:13:13.515 [TestNG-tests-2] baseUtils - phone----> 9549705935
+[INFO ] 2023-03-13 17:13:13.679 [TestNG-tests-2] baseUtils - email----> bholenathGWGco@bharat.co.in
+[INFO ] 2023-03-13 17:13:20.252 [TestNG-tests-1] baseUtils - Password---> Kashi IWEBP
+[INFO ] 2023-03-13 17:13:20.347 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi IWEBP
+[INFO ] 2023-03-13 17:13:21.196 [TestNG-tests-1] FlightDetailsTest - thread--->24
+[INFO ] 2023-03-13 17:13:21.785 [TestNG-tests-1] FlightDepartureTest - browser ---->chrome
+[INFO ] 2023-03-13 17:13:21.787 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 17:13:21.787 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 17:13:24.012 [TestNG-tests-2] baseUtils - Password---> Kashi U2RGZ
+[INFO ] 2023-03-13 17:13:24.112 [TestNG-tests-2] baseUtils - confirmPassword---> Kashi U2RGZ
+[INFO ] 2023-03-13 17:13:26.546 [TestNG-tests-2] ItineraryTest - thread--->25
+[INFO ] 2023-03-13 17:13:31.717 [TestNG-tests-2] ItineraryTest - Itinerary page is displayed, assertion successfull
+[INFO ] 2023-03-13 17:13:31.844 [TestNG-tests-2] ItineraryTest - Flight ticket confirmation id fetched ----> Flight Confirmation # 2023-2-1678707806485
+[INFO ] 2023-03-13 17:13:31.949 [TestNG-tests-2] ItineraryTest - Flight ticket price ----> $1753 USD
+[INFO ] 2023-03-13 17:13:32.228 [TestNG-tests-2] ItineraryTest - sign off link enabled, user signed off successfully ----> 
+[INFO ] 2023-03-13 17:13:32.236 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 17:13:33.928 [TestNG-tests-1] baseUtils - phone----> 6870940368
+[INFO ] 2023-03-13 17:13:34.049 [TestNG-tests-1] baseUtils - email----> bholenathBbtxh@bharat.co.in
+[INFO ] 2023-03-13 17:13:40.502 [TestNG-tests-1] baseUtils - Password---> Kashi tCUH4
+[INFO ] 2023-03-13 17:13:40.568 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi tCUH4
+[INFO ] 2023-03-13 17:13:42.468 [TestNG-tests-1] FlightDepartureTest - thread--->24
+[INFO ] 2023-03-13 17:13:47.661 [TestNG-tests-1] FlightDetailsTest - flight details page message is displayed successully
+[INFO ] 2023-03-13 17:13:47.788 [TestNG-tests-1] FlightDepartureTest - flight departue page is displayed, assertions successfull
+[INFO ] 2023-03-13 17:13:47.795 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 17:13:48.147 [TestNG-tests-1] FlightDetailsTest - passengers count--->3
+[INFO ] 2023-03-13 17:13:48.161 [TestNG-tests-1] FlightDetailsTest - quiting browser
+[INFO ] 2023-03-13 17:27:59.041 [TestNG-tests-1] RegistrationTest - browser ---->safari
+[INFO ] 2023-03-13 17:27:59.041 [TestNG-tests-2] RegConfirmTest - browser ---->safari
+[INFO ] 2023-03-13 17:27:59.054 [TestNG-tests-1] RegistrationTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 17:27:59.054 [TestNG-tests-2] RegConfirmTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 17:27:59.054 [TestNG-tests-1] RegistrationTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 17:27:59.054 [TestNG-tests-2] RegConfirmTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 17:28:09.638 [TestNG-tests-1] RegistrationTest - quiting browser
+[INFO ] 2023-03-13 17:28:09.657 [TestNG-tests-2] RegConfirmTest - quiting browser
+[INFO ] 2023-03-13 18:57:35.541 [TestNG-tests-1] FlightDetailsTest - browser ---->chrome
+[INFO ] 2023-03-13 18:57:35.541 [TestNG-tests-2] ItineraryTest - browser ---->chrome
+[INFO ] 2023-03-13 18:57:35.544 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 18:57:35.544 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 18:57:35.544 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 18:57:35.545 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 18:57:50.416 [TestNG-tests-2] baseUtils - phone----> 4073588050
+[INFO ] 2023-03-13 18:57:50.524 [TestNG-tests-2] baseUtils - email----> bholenathLwndQ@bharat.co.in
+[INFO ] 2023-03-13 18:57:51.770 [TestNG-tests-1] baseUtils - phone----> 7131591827
+[INFO ] 2023-03-13 18:57:51.941 [TestNG-tests-1] baseUtils - email----> bholenathpGikh@bharat.co.in
+[INFO ] 2023-03-13 18:57:59.769 [TestNG-tests-2] baseUtils - Password---> Kashi Cbwvp
+[INFO ] 2023-03-13 18:57:59.850 [TestNG-tests-2] baseUtils - confirmPassword---> Kashi Cbwvp
+[INFO ] 2023-03-13 18:58:01.066 [TestNG-tests-1] baseUtils - Password---> Kashi MTo43
+[INFO ] 2023-03-13 18:58:01.126 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi MTo43
+[INFO ] 2023-03-13 18:58:01.520 [TestNG-tests-1] FlightDetailsTest - thread--->39
+[INFO ] 2023-03-13 18:58:01.591 [TestNG-tests-1] FlightDepartureTest - browser ---->chrome
+[INFO ] 2023-03-13 18:58:01.591 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 18:58:01.591 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 18:58:02.220 [TestNG-tests-2] ItineraryTest - thread--->40
+[INFO ] 2023-03-13 18:58:07.327 [TestNG-tests-2] ItineraryTest - Itinerary page is displayed, assertion successfull
+[INFO ] 2023-03-13 18:58:07.456 [TestNG-tests-2] ItineraryTest - Flight ticket confirmation id fetched ----> Flight Confirmation # 2023-2-1678714082137
+[INFO ] 2023-03-13 18:58:07.623 [TestNG-tests-2] ItineraryTest - Flight ticket price ----> $1753 USD
+[INFO ] 2023-03-13 18:58:07.788 [TestNG-tests-2] ItineraryTest - sign off link enabled, user signed off successfully ----> 
+[INFO ] 2023-03-13 18:58:07.791 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 18:58:08.961 [TestNG-tests-1] baseUtils - phone----> 5860452360
+[INFO ] 2023-03-13 18:58:09.082 [TestNG-tests-1] baseUtils - email----> bholenathBNPXA@bharat.co.in
+[INFO ] 2023-03-13 18:58:14.557 [TestNG-tests-1] baseUtils - Password---> Kashi f5xEw
+[INFO ] 2023-03-13 18:58:14.603 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi f5xEw
+[INFO ] 2023-03-13 18:58:16.404 [TestNG-tests-1] FlightDepartureTest - thread--->39
+[INFO ] 2023-03-13 18:58:21.510 [TestNG-tests-1] FlightDetailsTest - flight details page message is displayed successully
+[INFO ] 2023-03-13 18:58:21.581 [TestNG-tests-1] FlightDepartureTest - flight departue page is displayed, assertions successfull
+[INFO ] 2023-03-13 18:58:21.582 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 18:58:21.837 [TestNG-tests-1] FlightDetailsTest - passengers count--->3
+[INFO ] 2023-03-13 18:58:21.839 [TestNG-tests-1] FlightDetailsTest - quiting browser
+[INFO ] 2023-03-13 19:01:46.000 [TestNG-tests-2] ItineraryTest - browser ---->chrome
+[INFO ] 2023-03-13 19:01:46.000 [TestNG-tests-1] FlightDetailsTest - browser ---->chrome
+[INFO ] 2023-03-13 19:01:46.003 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 19:01:46.003 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 19:01:46.003 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 19:01:46.003 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 19:02:03.872 [TestNG-tests-2] baseUtils - phone----> 0135050071
+[INFO ] 2023-03-13 19:02:03.939 [TestNG-tests-2] baseUtils - email----> bholenathAkPaQ@bharat.co.in
+[INFO ] 2023-03-13 19:02:06.900 [TestNG-tests-1] baseUtils - phone----> 1819519124
+[INFO ] 2023-03-13 19:02:07.000 [TestNG-tests-1] baseUtils - email----> bholenathrZHRi@bharat.co.in
+[INFO ] 2023-03-13 19:02:11.109 [TestNG-tests-2] baseUtils - Password---> Kashi EYWca
+[INFO ] 2023-03-13 19:02:11.252 [TestNG-tests-2] baseUtils - confirmPassword---> Kashi EYWca
+[INFO ] 2023-03-13 19:02:13.693 [TestNG-tests-2] ItineraryTest - thread--->40
+[INFO ] 2023-03-13 19:02:15.481 [TestNG-tests-1] baseUtils - Password---> Kashi 66TME
+[INFO ] 2023-03-13 19:02:15.570 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi 66TME
+[INFO ] 2023-03-13 19:02:16.098 [TestNG-tests-1] FlightDetailsTest - thread--->39
+[INFO ] 2023-03-13 19:02:16.119 [TestNG-tests-1] FlightDepartureTest - browser ---->chrome
+[INFO ] 2023-03-13 19:02:16.120 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 19:02:16.120 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 19:02:18.901 [TestNG-tests-2] ItineraryTest - Itinerary page is displayed, assertion successfull
+[INFO ] 2023-03-13 19:02:18.980 [TestNG-tests-2] ItineraryTest - Flight ticket confirmation id fetched ----> Flight Confirmation # 2023-2-1678714333569
+[INFO ] 2023-03-13 19:02:19.049 [TestNG-tests-2] ItineraryTest - Flight ticket price ----> $1753 USD
+[INFO ] 2023-03-13 19:02:19.393 [TestNG-tests-2] ItineraryTest - sign off link enabled, user signed off successfully ----> 
+[INFO ] 2023-03-13 19:02:19.403 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 19:02:31.206 [TestNG-tests-1] baseUtils - phone----> 0232982920
+[INFO ] 2023-03-13 19:02:31.268 [TestNG-tests-1] baseUtils - email----> bholenathNVble@bharat.co.in
+[INFO ] 2023-03-13 19:02:37.565 [TestNG-tests-1] baseUtils - Password---> Kashi 8uWOo
+[INFO ] 2023-03-13 19:02:37.635 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi 8uWOo
+[INFO ] 2023-03-13 19:02:39.431 [TestNG-tests-1] FlightDepartureTest - thread--->39
+[INFO ] 2023-03-13 19:02:44.557 [TestNG-tests-1] FlightDetailsTest - flight details page message is displayed successully
+[INFO ] 2023-03-13 19:02:44.638 [TestNG-tests-1] FlightDepartureTest - flight departue page is displayed, assertions successfull
+[INFO ] 2023-03-13 19:02:44.640 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 19:02:44.964 [TestNG-tests-1] FlightDetailsTest - passengers count--->3
+[INFO ] 2023-03-13 19:02:44.965 [TestNG-tests-1] FlightDetailsTest - quiting browser
+[INFO ] 2023-03-13 21:33:25.855 [TestNG-tests-2] ItineraryTest - browser ---->headless
+[INFO ] 2023-03-13 21:33:25.855 [TestNG-tests-1] FlightDetailsTest - browser ---->headless
+[INFO ] 2023-03-13 21:33:25.857 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 21:33:25.857 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 21:33:25.857 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 21:33:25.857 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 21:33:25.968 [TestNG-tests-1] FlightDepartureTest - browser ---->headless
+[INFO ] 2023-03-13 21:33:25.968 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 21:33:25.968 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 21:33:25.975 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 21:33:25.975 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 21:33:25.983 [TestNG-tests-1] FlightDetailsTest - quiting browser
+[INFO ] 2023-03-13 22:22:41.666 [TestNG-tests-2] ItineraryTest - browser ---->chrome
+[INFO ] 2023-03-13 22:22:41.666 [TestNG-tests-1] FlightDetailsTest - browser ---->chrome
+[INFO ] 2023-03-13 22:22:41.668 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:22:41.668 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:22:41.669 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:22:41.669 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:23:08.621 [TestNG-tests-2] baseUtils - phone----> 6044441697
+[INFO ] 2023-03-13 22:23:08.653 [TestNG-tests-1] baseUtils - phone----> 2123305670
+[INFO ] 2023-03-13 22:23:08.768 [TestNG-tests-2] baseUtils - email----> bholenathjBsWA@bharat.co.in
+[INFO ] 2023-03-13 22:23:08.827 [TestNG-tests-1] baseUtils - email----> bholenathWrILJ@bharat.co.in
+[INFO ] 2023-03-13 22:23:19.837 [TestNG-tests-1] baseUtils - Password---> Kashi 4KK1n
+[INFO ] 2023-03-13 22:23:19.992 [TestNG-tests-2] baseUtils - Password---> Kashi ecwkm
+[INFO ] 2023-03-13 22:23:20.072 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi 4KK1n
+[INFO ] 2023-03-13 22:23:20.173 [TestNG-tests-2] baseUtils - confirmPassword---> Kashi ecwkm
+[INFO ] 2023-03-13 22:23:21.268 [TestNG-tests-1] FlightDetailsTest - thread--->24
+[INFO ] 2023-03-13 22:23:21.411 [TestNG-tests-1] FlightDepartureTest - browser ---->chrome
+[INFO ] 2023-03-13 22:23:21.411 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:23:21.411 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:23:23.445 [TestNG-tests-2] ItineraryTest - thread--->25
+[INFO ] 2023-03-13 22:23:29.136 [TestNG-tests-2] ItineraryTest - Itinerary page is displayed, assertion successfull
+[INFO ] 2023-03-13 22:23:29.274 [TestNG-tests-2] ItineraryTest - Flight ticket confirmation id fetched ----> Flight Confirmation # 2023-2-1678726403290
+[INFO ] 2023-03-13 22:23:29.405 [TestNG-tests-2] ItineraryTest - Flight ticket price ----> $1753 USD
+[INFO ] 2023-03-13 22:23:30.189 [TestNG-tests-2] ItineraryTest - sign off link enabled, user signed off successfully ----> 
+[INFO ] 2023-03-13 22:23:30.235 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 22:23:40.502 [TestNG-tests-1] baseUtils - phone----> 8569250523
+[INFO ] 2023-03-13 22:23:40.577 [TestNG-tests-1] baseUtils - email----> bholenathKyaKv@bharat.co.in
+[INFO ] 2023-03-13 22:23:48.753 [TestNG-tests-1] baseUtils - Password---> Kashi VSX6e
+[INFO ] 2023-03-13 22:23:48.853 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi VSX6e
+[INFO ] 2023-03-13 22:23:51.121 [TestNG-tests-1] FlightDepartureTest - thread--->24
+[INFO ] 2023-03-13 22:23:56.296 [TestNG-tests-1] FlightDetailsTest - flight details page message is displayed successully
+[INFO ] 2023-03-13 22:23:56.398 [TestNG-tests-1] FlightDepartureTest - flight departue page is displayed, assertions successfull
+[INFO ] 2023-03-13 22:23:56.399 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 22:23:56.950 [TestNG-tests-1] FlightDetailsTest - passengers count--->3
+[INFO ] 2023-03-13 22:23:56.951 [TestNG-tests-1] FlightDetailsTest - quiting browser
+[INFO ] 2023-03-13 22:27:32.321 [TestNG-tests-2] ItineraryTest - browser ---->headless
+[INFO ] 2023-03-13 22:27:32.321 [TestNG-tests-1] FlightDetailsTest - browser ---->headless
+[INFO ] 2023-03-13 22:27:32.324 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:27:32.324 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:27:32.325 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:27:32.325 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:27:32.463 [TestNG-tests-1] FlightDepartureTest - browser ---->headless
+[INFO ] 2023-03-13 22:27:32.464 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:27:32.464 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:27:32.477 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 22:27:32.481 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 22:27:32.500 [TestNG-tests-1] FlightDetailsTest - quiting browser
+[INFO ] 2023-03-13 22:35:03.918 [TestNG-tests-2] ItineraryTest - browser ---->chromeheadless
+[INFO ] 2023-03-13 22:35:03.918 [TestNG-tests-1] FlightDetailsTest - browser ---->chromeheadless
+[INFO ] 2023-03-13 22:35:03.920 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:35:03.920 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:35:03.921 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:35:03.921 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:35:17.881 [TestNG-tests-2] baseUtils - phone----> 3147722141
+[INFO ] 2023-03-13 22:35:17.986 [TestNG-tests-2] baseUtils - email----> bholenathuATMZ@bharat.co.in
+[INFO ] 2023-03-13 22:35:20.951 [TestNG-tests-1] baseUtils - phone----> 8955458860
+[INFO ] 2023-03-13 22:35:21.081 [TestNG-tests-1] baseUtils - email----> bholenathbhdYh@bharat.co.in
+[INFO ] 2023-03-13 22:35:24.387 [TestNG-tests-2] baseUtils - Password---> Kashi Blzs3
+[INFO ] 2023-03-13 22:35:24.450 [TestNG-tests-2] baseUtils - confirmPassword---> Kashi Blzs3
+[INFO ] 2023-03-13 22:35:26.837 [TestNG-tests-2] ItineraryTest - thread--->40
+[INFO ] 2023-03-13 22:35:28.220 [TestNG-tests-1] baseUtils - Password---> Kashi lA8Dk
+[INFO ] 2023-03-13 22:35:28.274 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi lA8Dk
+[INFO ] 2023-03-13 22:35:28.786 [TestNG-tests-1] FlightDetailsTest - thread--->39
+[INFO ] 2023-03-13 22:35:28.791 [TestNG-tests-1] FlightDepartureTest - browser ---->chromeheadless
+[INFO ] 2023-03-13 22:35:28.791 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:35:28.791 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:35:32.021 [TestNG-tests-2] ItineraryTest - Itinerary page is displayed, assertion successfull
+[INFO ] 2023-03-13 22:35:32.092 [TestNG-tests-2] ItineraryTest - Flight ticket confirmation id fetched ----> Flight Confirmation # 2023-2-1678727126789
+[INFO ] 2023-03-13 22:35:32.161 [TestNG-tests-2] ItineraryTest - Flight ticket price ----> $1753 USD
+[INFO ] 2023-03-13 22:35:32.322 [TestNG-tests-2] ItineraryTest - sign off link enabled, user signed off successfully ----> 
+[INFO ] 2023-03-13 22:35:32.331 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 22:35:34.910 [TestNG-tests-1] baseUtils - phone----> 7739255476
+[INFO ] 2023-03-13 22:35:35.008 [TestNG-tests-1] baseUtils - email----> bholenathjbOTW@bharat.co.in
+[INFO ] 2023-03-13 22:35:40.641 [TestNG-tests-1] baseUtils - Password---> Kashi vYePf
+[INFO ] 2023-03-13 22:35:40.685 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi vYePf
+[INFO ] 2023-03-13 22:35:42.448 [TestNG-tests-1] FlightDepartureTest - thread--->39
+[INFO ] 2023-03-13 22:35:47.568 [TestNG-tests-1] FlightDetailsTest - flight details page message is displayed successully
+[INFO ] 2023-03-13 22:35:47.679 [TestNG-tests-1] FlightDepartureTest - flight departue page is displayed, assertions successfull
+[INFO ] 2023-03-13 22:35:47.680 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 22:35:47.954 [TestNG-tests-1] FlightDetailsTest - passengers count--->3
+[INFO ] 2023-03-13 22:35:47.956 [TestNG-tests-1] FlightDetailsTest - quiting browser
+[INFO ] 2023-03-13 22:36:07.031 [TestNG-tests-2] ItineraryTest - browser ---->chromeheadless
+[INFO ] 2023-03-13 22:36:07.031 [TestNG-tests-1] FlightDetailsTest - browser ---->chromeheadless
+[INFO ] 2023-03-13 22:36:07.033 [TestNG-tests-2] ItineraryTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:36:07.033 [TestNG-tests-1] FlightDetailsTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:36:07.034 [TestNG-tests-2] ItineraryTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:36:07.034 [TestNG-tests-1] FlightDetailsTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:36:22.318 [TestNG-tests-1] baseUtils - phone----> 8185910627
+[INFO ] 2023-03-13 22:36:22.513 [TestNG-tests-1] baseUtils - email----> bholenathinVKc@bharat.co.in
+[INFO ] 2023-03-13 22:36:23.233 [TestNG-tests-2] baseUtils - phone----> 0245480264
+[INFO ] 2023-03-13 22:36:23.464 [TestNG-tests-2] baseUtils - email----> bholenathOJNeI@bharat.co.in
+[INFO ] 2023-03-13 22:36:33.714 [TestNG-tests-1] baseUtils - Password---> Kashi Abpln
+[INFO ] 2023-03-13 22:36:33.848 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi Abpln
+[INFO ] 2023-03-13 22:36:34.589 [TestNG-tests-1] FlightDetailsTest - thread--->23
+[INFO ] 2023-03-13 22:36:34.708 [TestNG-tests-1] FlightDepartureTest - browser ---->chromeheadless
+[INFO ] 2023-03-13 22:36:34.708 [TestNG-tests-1] FlightDepartureTest - url launched ---->https://vins-udemy.s3.amazonaws.com/docker/docker-book-flight.html#
+[INFO ] 2023-03-13 22:36:34.709 [TestNG-tests-1] FlightDepartureTest - execution Mode  ---->local grid url ---->http://localhost:4444/wd/hub
+[INFO ] 2023-03-13 22:36:35.033 [TestNG-tests-2] baseUtils - Password---> Kashi MsVCt
+[INFO ] 2023-03-13 22:36:35.142 [TestNG-tests-2] baseUtils - confirmPassword---> Kashi MsVCt
+[INFO ] 2023-03-13 22:36:38.214 [TestNG-tests-2] ItineraryTest - thread--->24
+[INFO ] 2023-03-13 22:36:43.583 [TestNG-tests-2] ItineraryTest - Itinerary page is displayed, assertion successfull
+[INFO ] 2023-03-13 22:36:43.725 [TestNG-tests-2] ItineraryTest - Flight ticket confirmation id fetched ----> Flight Confirmation # 2023-2-1678727198146
+[INFO ] 2023-03-13 22:36:43.809 [TestNG-tests-2] ItineraryTest - Flight ticket price ----> $1753 USD
+[INFO ] 2023-03-13 22:36:43.933 [TestNG-tests-2] ItineraryTest - sign off link enabled, user signed off successfully ----> 
+[INFO ] 2023-03-13 22:36:43.941 [TestNG-tests-2] ItineraryTest - quiting browser
+[INFO ] 2023-03-13 22:36:48.607 [TestNG-tests-1] baseUtils - phone----> 4644884169
+[INFO ] 2023-03-13 22:36:48.765 [TestNG-tests-1] baseUtils - email----> bholenathPRAmf@bharat.co.in
+[INFO ] 2023-03-13 22:36:56.519 [TestNG-tests-1] baseUtils - Password---> Kashi tLsut
+[INFO ] 2023-03-13 22:36:56.566 [TestNG-tests-1] baseUtils - confirmPassword---> Kashi tLsut
+[INFO ] 2023-03-13 22:36:58.709 [TestNG-tests-1] FlightDepartureTest - thread--->23
+[INFO ] 2023-03-13 22:37:03.898 [TestNG-tests-1] FlightDetailsTest - flight details page message is displayed successully
+[INFO ] 2023-03-13 22:37:04.031 [TestNG-tests-1] FlightDepartureTest - flight departue page is displayed, assertions successfull
+[INFO ] 2023-03-13 22:37:04.032 [TestNG-tests-1] FlightDepartureTest - quiting browser
+[INFO ] 2023-03-13 22:37:04.461 [TestNG-tests-1] FlightDetailsTest - passengers count--->3
+[INFO ] 2023-03-13 22:37:04.462 [TestNG-tests-1] FlightDetailsTest - quiting browser

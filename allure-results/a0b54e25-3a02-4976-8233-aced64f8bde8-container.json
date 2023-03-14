@@ -1,0 +1,1 @@
+{"uuid":"a0b54e25-3a02-4976-8233-aced64f8bde8","name":"SVG.SvgElement","children":["d9a39d2c-4c9f-466f-bc89-eb1b76a32132"],"befores":[{"name":"launchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1678776730754,"stop":1678776743252}],"afters":[],"start":1678776725200,"stop":1678776804329}
